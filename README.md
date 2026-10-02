@@ -1,4 +1,4 @@
-# equential Calculator
+# Sequential Calculator
 
 A Python-based command-line calculator that performs **sequential operations** — each calculation uses the result of the previous one, allowing you to chain computations naturally.
 
